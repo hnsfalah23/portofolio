@@ -38,10 +38,10 @@ const hero = () => {
       <h2 className="text-5xl text-rose-600 uppercase font-bold animate-bounce">
         Muhammad Hans Falah
       </h2>
-      <h3 className="py-3 text-2xl">Software Engineer</h3>
+      <h3 className="py-3 text-2xl">Full Stack Developer</h3>
       <p className="max-w-xl font-light text-gray-500">
         Hello <span className="animate-pulse text-4xl">👋</span>, Welcome to my
-        site. I am a freelance software engineer. I love to work on Web dev
+        site. I am a freelance Full Stack Developer. I love to work on Web dev
       </p>
 
       {/* social icons */}
